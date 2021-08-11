@@ -4,7 +4,7 @@
 VIPER 패턴을 학습 하면서 만든 todo app입니다.
 
 
-<img src="![Hnet com-image](https://user-images.githubusercontent.com/26545623/129050720-6aaf4625-97e8-412a-8b32-d4c86a5c3e58.gif)">
+![Hnet com-image](https://user-images.githubusercontent.com/26545623/129050800-7e6976ea-28b9-43e7-a0fd-c24b260e9260.gif)
 
 주요 디렉토리 별 파일설명
 
